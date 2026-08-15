@@ -1,6 +1,6 @@
-# cernodata-internal: Application Architecture Specification
+# Cernodata: Application Architecture Specification
 
-This document outlines how `cernodata-internal` solves the frustrating guesswork of PDF parsing for RAG. Instead of blindly running a parser and hoping for usable chunks, we use guided decision trees, automated fallback loops, page slicing, and visual debugging to guarantee clean output. Above all, the architecture is engineered to dramatically shave developer iteration time by finding ways to inspect, debug, and validate data without having to execute heavy ML tools unnecessarily.
+This document outlines how `cernodata` solves the frustrating guesswork of PDF parsing for RAG. Instead of blindly running a parser and hoping for usable chunks, we use guided decision trees, automated fallback loops, page slicing, and visual debugging to guarantee clean output. Above all, the architecture is engineered to dramatically shave developer iteration time by finding ways to inspect, debug, and validate data without having to execute heavy ML tools unnecessarily.
 
 ---
 
