@@ -1,6 +1,6 @@
 # Testing & Quality Evaluation Decision Tree
 
-This document defines the 5-tier quality continuum, early single-doc vs. downstream dataset-level failure handling, and SLM test prompt generation in `cernodata-internal`.
+This document defines the 5-tier quality continuum, early single-doc vs. downstream dataset-level failure handling, and SLM test prompt generation in `cernodata`.
 
 ---
 
