@@ -1,6 +1,6 @@
 # Parsing Decision Tree & Pipeline Selection Specification
 
-This document details the selection, scoring, parameter wiggling, preset switching, and page-subdivision mechanics for parsing PDFs within `cernodata-internal`.
+This document details the selection, scoring, parameter wiggling, preset switching, and page-subdivision mechanics for parsing PDFs within `cernodata`.
 
 ---
 
