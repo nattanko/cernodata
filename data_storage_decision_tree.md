@@ -1,6 +1,6 @@
 # Data Storage & Downstream Packing Decision Tree
 
-This document defines how parsed PDF structural DOM objects are serialized, stored, chunked, and formatted for downstream AI consumption in `cernodata-internal`.
+This document defines how parsed PDF structural DOM objects are serialized, stored, chunked, and formatted for downstream AI consumption in `cernodata`.
 
 ---
 
